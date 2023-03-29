@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Moshin</h1>
+<h1 align="center">Hi 👋, I'm Md Mohsin</h1>
 <h3 align="center">A passionate Mechanical Engineer Learning to code.</h3>
 
 - 🔭 I’m currently working on **Windows Switcher UI App**
