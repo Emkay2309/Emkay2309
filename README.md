@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Mohsin</h1>
-<h3 align="center">A passionate Mechanical Engineer Learning to code.</h3>
+<h3 align="center">A passionate Mechanical Engineer who codes on React Native .</h3>
 
-- 🔭 I’m currently working on **Windows Switcher UI App**
+- 🔭 I’m currently working on **Smart Contracts**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Java , Data Structure**
 
