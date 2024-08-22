@@ -8,7 +8,7 @@
 - 💬 Ask me about **Java , Data Structure**
 
 
-- **Leetcode Statistics*
+- *Leetcode Statistics*
 ![Leetcode Stats](https://leetcard.jacoblin.cool/emkay2309?ext=heatmap)
 
 - 📫 How to reach me **emkay2309@gmail.com**
