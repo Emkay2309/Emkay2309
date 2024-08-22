@@ -39,7 +39,7 @@
  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-  <img src="https://soliditylang.org/images/solidity-logo.png" alt="Solidity" width="40" height="40"/>
+  <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" alt="Solidity" width="40" height="40"/>
 </a>
 
 
