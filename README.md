@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mohsin</h1>
-<h3 align="center">A passionate Mechanical Engineer who codes React Native apps.</h3>
+<h3 align="center">A passionate Software Engineer who codes React,Next js, React Native apps with Springboot.</h3>
 
 - 🔭 I’m currently working on **Smart Contracts** .
 
